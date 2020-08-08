@@ -1,17 +1,21 @@
-/*#header {
+/*
+.___ for classes
+#___ for ids
+
+#header {
     padding-bottom: 20px;
 }
-*/
+
 #title {
     text-align: left;
     /*background: blue;
-    float: left;*/
+    float: left;
 }
 
 #scrollLinks {
     text-align: center;
     float: inline-end;
-    /*background: red;*/
+    /*background: red;
 }
 
 #textLeft {
@@ -26,4 +30,10 @@
     width: 80%;
     height: 100%;
 
+}
+*/
+
+
+.col-sm-4 {
+    padding: 20px;
 }
