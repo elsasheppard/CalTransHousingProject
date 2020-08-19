@@ -37,3 +37,12 @@
 .col-sm-4 {
     padding: 20px;
 }
+
+#headerText {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#mainText {
+    text-align: left;
+}
